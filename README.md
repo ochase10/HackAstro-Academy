@@ -93,7 +93,7 @@ curriculum.
 | Week | Mon | Wed | Topics|
 |:---:|:----:|:-----:|-------------|
 | 1 | --- | 1/22 | <ul><li>Syllabus overview and logistics</li><li>Installing Python</li><li>Text editors, the command line</li></ul>|
-| 2 | 1/27 | 1/29 | <ul><li>Expressions and Data types</li><li>Functions and Environment Diagrams<\li><\ul>|      
+| 2 | 1/27 | 1/29 | <ul><li>Expressions and Data types</li><li>Functions and Environment Diagrams</li></ul>|      
 | 3 | 2/3 | 2/5 | <ul><li>Control Flow</li><li>Lists</li></ul>   
 | 4 | 2/10 | 2/12 | <ul><li>Control Flow (cont.)</li><li>Dictionaries</li></ul> 
 | 5 | 2/17 | 2/19 | <ul><li>Classes and Object Oriented Programming</li><li>File input/output</li></ul>  
