@@ -1,0 +1,20 @@
+# Peanut Butter and Jelly Sandwich Instructions
+# Instructions for Students:
+# 1. Open this file using a text editor: `vi pbj_instructions.txt`
+# 2. Write detailed, step-by-step instructions for making a peanut butter and jelly sandwich.
+#    Assume the person following the instructions understands basic English but has no prior experience with sandwiches.
+     (i.e: they can understand what pick up spoon or spread jelly means, 
+#     but they do not know how to make a pb and j sandwich)
+#    Further assume the person has all the materials directly in front of them: 
+#    bread, spoon, butter knife, peanut butter and jelly
+# 3. Save the file and exit the editor once you are done.
+
+# Example format:
+# Step 1: Outline first step in making a PB+J sandwich
+# Step 2: ...
+# Continue until the sandwich is ready.
+
+# Write your instructions below this line.
+
+
+
