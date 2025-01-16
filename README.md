@@ -1,4 +1,7 @@
-![logo](assets/hackastrologo.png)
+<p align="center">
+  <img src="assets/hackastrologo.png" alt="logo" width="250"/>
+</p>
+
 ------------------------------------------------------------------------
 |  |  |
 |:---|:---|
