@@ -1,5 +1,5 @@
+![logo](assets/hackastrologo.png)
 ------------------------------------------------------------------------
-
 |  |  |
 |:---|:---|
 | **Facilitators:** | Oscar Chavez (<chavezoscar009@utexas.edu>) |
