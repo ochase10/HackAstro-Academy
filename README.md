@@ -76,7 +76,7 @@ meet. We will therefore offer projects and activities for students to
 work on at home to practice their skills. We will also be available to
 help students individually as needed. All together, we expect that a
 student who attends and completes all offered course work will spend ∼
-10 hours per week.
+5 hours per week.
 
 # Course Resources
 
