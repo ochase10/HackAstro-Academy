@@ -4,7 +4,7 @@
 # 2. Write detailed, step-by-step instructions for making a peanut butter and jelly sandwich.
 #    Assume the person following the instructions understands basic English but has no prior experience with sandwiches.
      (i.e: they can understand what pick up spoon or spread jelly means, 
-#     but they do not know how to make a pb and j sandwich)
+#     but they do not know how to do those steps)
 #    Further assume the person has all the materials directly in front of them: 
 #    bread, spoon, butter knife, peanut butter and jelly
 # 3. Save the file and exit the editor once you are done.
