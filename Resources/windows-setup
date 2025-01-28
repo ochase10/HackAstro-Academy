@@ -1,0 +1,7 @@
+1) Windows Subsystem for Linux (WSL)
+- To install Ubuntu (a version of the Linux OS) within Windows, follow the steps from Microsoft found at https://learn.microsoft.com/en-us/windows/wsl/install 
+- Once Ubuntu is installed, you can launch it from the Start menu using the search bar (usually in the lower left corner of the screen)
+- Then follow these instructions to set up your Ubuntu environment: https://learn.microsoft.com/en-us/windows/wsl/setup/environment
+
+2) Git Bash
+Git is a version control system, and installing it on Windows will come with a Bash shell. To install and setup Git Bash on your Windows system, follow the instructions here: https://about.gitlab.com/blog/2024/12/16/git-command-line-on-windows-with-git-bash/
