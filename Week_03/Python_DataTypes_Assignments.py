@@ -12,35 +12,34 @@ string_var = ___
 boolean_var = ___
 list_var = ___
 tuple_var = ___
-set_var = ___
 dict_var = ___
 
 
 # Grabbing values from a list, tuple, and dictionary and modifying the contents
 
-# List example: fill in the blanks with your values
-my_list = [___, ___, ___, ___, ___, ___, ___, ___, ___]
+# List example: fill in the blanks with your values, experiment with different data types
+my_list = []
 print("Original List:", my_list)
 
 #modify the 3rd element of the list
-my_list[___] = ___  # Modify the ___ element
+
 print("Modified List:", my_list)
 
-# Tuple example: fill in the blanks with your values
-my_tuple = (___, ___, ___, ___, ___, ___, ___, ___, ___)
+# Tuple example: fill in the blanks with your values, experiment with different data types
+my_tuple = ()
 print("Original Tuple:", my_tuple)
 
 # Tuples are immutable, so we need to convert it to a list to modify it
-temp_list = list(my_tuple)
+temp_list = 
 
 #modify the 2nd entry in this tuple
-temp_list[___] = ___  # Modify the ___ element
+
 my_tuple = tuple(temp_list)
 
 print("Modified Tuple:", my_tuple)
 
 # Dictionary example: fill in the key-value pair for this dictionary
-my_dict = {'': ___, '': ___, '': ___}
+my_dict = {}
 print("Original Dictionary:", my_dict)
 
 #modify the value for the second key to be the value of the first key

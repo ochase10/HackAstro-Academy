@@ -6,45 +6,6 @@ import numpy as np
 #Introduce a comment, if the other instructor did not do so already
 #This is a comment, use the # symbol to write a comment
 
-#There are 4 data types
-
-#integers
-
-print(1)
-
-print(100)
-
-print(-9)
-
-
-#floats
-
-print(3.14159)
-
-print(2.99e30)
-
-#Boolean
-
-print(True)
-
-print(False)
-
-#Strings
-#To start a string we can use 'STUFF_HERE' or "STUFF_HERE"
-
-print('This is an example of a string')
-
-print('So is this')
-
-
-#Introducing the Type Function
-#The type function will tell you what data type a variable is
-print(f'1 is of Type: {type(1)}')
-print(f'3.14159 is of Type: {type(3.14159)}')
-print(f'True is of Type: {type(True)}')
-print(f"Hello is of Type: {type('Hello')}")
-
-
 #Conversion of Data Types in Python
 #You can always convert one data type to another using the respective 
 #python syntax for that data type, let's see some examples below
@@ -59,11 +20,6 @@ int_to_bool = bool(0)
 float_to_bool = bool(0.0)
 string_to_bool = bool('False')
 
-#Cases where the conversion will not work
-#Converting a string to an integer or float will not work if the string is not a number
-
-str_to_int = int('Hello')
-
 ###############
 #Strings
 ##############
@@ -74,10 +30,51 @@ print('Hello' + ' ' + 'World')
 
 print('Hello' * 4)
 
+
+
+################
+# Some useful string methods
+################
+
+string1 = 'hello world'
+upper_string = string1.upper()
+print(upper_string)
+lower_string = upper_string.lower()
+print(lower_string)
+
+############
+#replace method
+############
+
+replace_world = string1.replace('world', 'universe')
+print(replace_world)
+
+replace_world = string1.replace('hello', 'cool')
+print(replace_world)
+
+#############
+#split method
+#############
+
+long_sentence = 'This is a long sentence that we will split into words'
+split_sentence = long_sentence.split()
+print(split_sentence)
+
+file_path = 'C:/Users/username/Documents/Python/Week_03/intro_to_datatypes.py'
+split_path = file_path.split('/')
+print(split_path)
+
+split_path_underscore = file_path.split('_')
+print(split_path_underscore)
+
+print('/'.join(split_path))
+print('**'.join(split_path))
+
+
 #f-string
 #f-string is a way to format strings in python
 #syntax is f'{variable_name}'
-fstring1 = f'I was born in  {1995}'
+fstring1 = f'I was born in {1995}'
 
 mass = 10
 fstring2 = f'The mass of the object is log10({mass})'
@@ -143,6 +140,10 @@ print(last_4_values)
 
 first_tuple = (1, 2, 3, 4, 5, [3, 2, 4, 5], True, False, 3.454, (1, 4, True, 'String'))
 
+#try running the code below
+
+first_tuple[5] = 100
+first_tuple[-4] = [1, 2, 3, 4, 5]
 
 # 3. Dictionaries
 #Differ from list and tuples by not using index to access data but a key-value pairing
