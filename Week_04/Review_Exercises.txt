@@ -1,0 +1,45 @@
+Exercise 1:
+
+Write a program that takes a sentence as input and counts the occurrences of each word in the sentence. 
+Ignore capitalization and punctuation.
+
+Example output:
+Input: "The cat sat on the mat. The dog sat on the mat."
+Output: {'the': 3, 'cat': 1, 'sat': 2, 'on': 2, 'mat': 2, 'dog': 1}
+
+Exercise 2:
+
+Write a program that categorizes student scores into letter grades. 
+Given a dictionary of student names and scores, update it with their letter grade.
+
+Input:
+students = {
+    "Alice": 85,
+    "Bob": 92,
+    "Charlie": 76,
+    "David": 59
+}
+
+Output:
+
+grades = {
+    "Alice": "B",
+    "Bob": "A",
+    "Charlie": "C",
+    "David": "F"
+}
+
+Exercise 3:
+
+1. Compute the escape velocity for each object:
+
+    v_esc = sqrt(2GM/R)
+
+    Where G is the gravitational constant
+    M is the mass of the object
+    R is the Radius
+
+2. Compute the average mass, velocity, and radius across all objects.
+3. Find the most massive, fastest, and largest object and print out their IDs for each.
+​
+
