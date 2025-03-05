@@ -12,4 +12,6 @@ def redshift_calc(lam, lam0):
     '''
     return (lam-lam0)/lam0
 
-print("Hi")
+
+if __name__ == "__main__":
+    print("Hi")
