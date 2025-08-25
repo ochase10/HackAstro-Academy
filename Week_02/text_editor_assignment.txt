@@ -19,4 +19,3 @@ NAME_PLACEHOLDER
 
 # Extra Credit: Use the `wc` command to count the number of lines, words, and characters
 #               in this file. Write those numbers here as a comment.
-# Hint: Use `wc text_editor_assignment.txt`

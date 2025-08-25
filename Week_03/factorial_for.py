@@ -1,3 +1,9 @@
+'''
+This program computes the factorial of a user-input number.
+
+Usage: python factorial_for.py 9
+'''
+
 #get input from the user
 n = int(input("Please enter a number: "))
 

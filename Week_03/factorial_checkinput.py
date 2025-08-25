@@ -1,3 +1,9 @@
+'''
+This program computes the factorial of a user-input number.
+
+Usage: python factorial_checkinput.py 9
+'''
+
 #get input from the user
 good = False
 while not good:

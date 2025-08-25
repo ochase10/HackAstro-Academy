@@ -1,0 +1,42 @@
+Part 1: Lists
+
+a) Create a list called numbers containing the values 3, 7, 2, and 9.
+b) Add the number 5 to the list.
+c) Delete the number 7 from the list.
+d) Arrange the list in ascending order.
+e) Print the length of the list.
+
+What is the final list after these operations?
+
+Part 2: Tuples
+
+a) Create a tuple called colors with three colors of your choice.
+b) Try using .append() on the tuple. What happens?
+c) Use indexing to print the second color in the tuple.
+d) Try changing one of the elements in the tuple. What happens?
+
+Part 3: Dictionaries
+
+a) Create a dictionary called student with the following key-value pairs:
+name -> Alex
+age -> 20
+grade -> B
+
+b) Display the student's name.
+c) Change the student's grade to "A" by updating the dictionary.
+d) Add a new key "major" with the value "Astronomy".
+e) Print all keys and all values in the dictionary.
+
+Part 4: Strings
+
+a) Create a string variable sentence with the value "Python is fun!".
+b) Convert it to uppercase.
+c) Change the word "fun" to "awesome".
+d) Break the sentence into a list of words.
+e) Use indexing to print just the first letter of the string.
+f) Print just the first word, and then just the 2nd letter of the last word.
+
+Bonus Challenge!
+Try using input() to ask the user for their name and store it in a variable. Then, print a message like:
+"Hello <name>, welcome to Python!"
+
