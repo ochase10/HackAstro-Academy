@@ -5,8 +5,8 @@
 ------------------------------------------------------------------------
 |  |  |
 |:---|:---|
-| **Facilitators:** | Oscar Chavez ([chavezoscar009@utexas.edu]<chavezoscar009@utexas.edu>) |
-|  | Owen Chase ([owen.chase@utexas.edu](owen.chase@utexas.edu)) |
+| **Facilitators:** | Oscar Chavez (<chavezoscar009@utexas.edu>) |
+|  | Owen Chase (<owen.chase@utexas.edu>) |
 | **Time & Place:** | Tuesday/Thursday 5PM - 6PM in 15th Floor Computer Lab (PMA 15.201) |
 | **Office Hours:** | By appointment |
 
