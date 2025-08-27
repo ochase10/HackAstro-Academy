@@ -95,17 +95,17 @@ curriculum.
 
 | Week | Mon | Wed | Topics|
 |:---:|:----:|:-----:|-------------|
-| 1 | 9/2 | 9/4 | <ul><li>Syllabus overview and logistics</li><li>Installing Python</li><li>Text editors, the command line</li></ul>|
-| 2 | 9/9 | 9/11 | <ul><li>Expressions and Data types</li><li>Functions and Environment Diagrams</li></ul>|      
-| 3 | 9/16 | 9/18 | <ul><li>Control Flow</li><li>Lists</li></ul>   
-| 4 | 9/23 | 9/25 | <ul><li>Control Flow (cont.)</li><li>Dictionaries</li></ul> 
-| 5 | 9/30 | 10/2 | <ul><li>Classes and Object Oriented Programming</li><li>File input/output</li></ul>  
-| 6 | 10/7 | 10/9 | <ul><li>1D-Arrays and 1D-Plotting  
-| 7 | 10/14 | 10/16 | <ul><li>File-io/Tables  
-| 8 | 10/21 | 10/23 | <ul><li>2D-Arrays and 2D-Plotting  
-| 9 | 10/28 | 10/30 | 
-| 10 | 10/4 | 10/6 | <ul><li>Special Topic  
-| 11 | 10/11 | 10/13 | <ul><li>SOMETHING  
-| 12 | 10/18 | 10/20 | <ul><li>SOMETHING  
-| 13 | 12/2 | 12/4 | <ul><li>SOMETHING  
-| 14 | 12/9 | 12/11 | <ul><li>SOMETHING  
+| 1 | 9/2 | 9/4 | <ul><li>Syllabus overview and logistics</li><li>Installing Python</li><li>Intro to bash</li></ul>|
+| 2 | 9/9 | 9/11 | <ul><li>Hello, World</li><li>Thinking like a programmer</li><li>Text editors</li></ul>|      
+| 3 | 9/16 | 9/18 | <ul><li>Control Flow</li><li>Data Types</li></ul>   
+| 4 | 9/23 | 9/25 | <ul><li>Control Flow (cont.)</li><li>Review</li></ul> 
+| 5 | 9/30 | 10/2 | <ul><li>Functions</li><li>File I/O</li></ul>  
+| 6 | 10/7 | 10/9 | <ul><li>Packages</li><li>Numpy</li></ul>  
+| 7 | 10/14 | 10/16 | <ul><li>Numpy</li><li>Matplotlib</li></ul>
+| 8 | 10/21 | 10/23 | <ul><li>Astropy</li><li>FITs files</li></ul>
+| 9 | 10/28 | 10/30 | <ul><li>Pandas</li><li>Data Science</li></ul>
+| 10 | 10/4 | 10/6 | <ul><li>Model Fitting</li><li>MCMC</li></ul>
+| 11 | 10/11 | 10/13 | <ul><li>Projects</li><li>Advanced Topics</li></ul>
+| 12 | 10/18 | 10/20 | <ul><li>Projects</li><li>Advanced Topics</li></ul>
+| 13 | 12/2 | 12/4 |  <ul><li>Projects</li><li>Advanced Topics</li></ul>
+| 14 | 12/9 | 12/11 | <ul><li>Projcts</li><li>Advanced Topics</li></ul>
