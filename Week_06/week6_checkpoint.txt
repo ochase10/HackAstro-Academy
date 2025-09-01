@@ -1,0 +1,13 @@
+This week's checkpoint is a simple numerical problem. 
+
+Write a function which converts decimal numbers to binary. 
+
+Implement the function in a .py file and load it from a different 
+program which makes it accessible to a command line (or Jupyter notebook) user.
+The wrapper program should ensure the user's input is valid.
+
+Example input/output:
+
+toBinary(10) -> 1010
+toBinary(7) -> 111
+toBinary(64) -> 1000000

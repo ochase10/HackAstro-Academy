@@ -105,7 +105,7 @@ curriculum.
 | 8 | 10/21 | 10/23 | <ul><li>Astropy</li><li>FITs files</li></ul>
 | 9 | 10/28 | 10/30 | <ul><li>Pandas</li><li>Data Science</li></ul>
 | 10 | 10/4 | 10/6 | <ul><li>Model Fitting</li><li>MCMC</li></ul>
-| 11 | 10/11 | 10/13 | <ul><li>Projects</li><li>Advanced Topics</li></ul>
-| 12 | 10/18 | 10/20 | <ul><li>Projects</li><li>Advanced Topics</li></ul>
+| 11 | 10/11 | 10/13 | <ul><li>Git</li><li>GitHub</li></ul>
+| 12 | 10/18 | 10/20 | <ul><li>Using LLMs</li></ul>
 | 13 | 12/2 | 12/4 |  <ul><li>Projects</li><li>Advanced Topics</li></ul>
 | 14 | 12/9 | 12/11 | <ul><li>Projcts</li><li>Advanced Topics</li></ul>

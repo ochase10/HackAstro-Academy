@@ -1,0 +1,33 @@
+Your challenge for this checkpoint is to write a Python program that checks whether the 
+user inputs a valid password.
+
+The requirements of the password are it must contain:
+ - at least 8 characters
+ - at most 4 numbers
+ - both upper case and lower case characters
+ - EXACTLY 2 special characters
+
+If the password is valid, your program should print "Success!" to the screen.
+Otherwise, it should tell the user to try again.
+
+For an added challenge, the retry prompt can tell the user why their password was invalid.
+
+Make sure to test your program! 
+
+Here are some example usages:
+
+> Please enter a valid password: h3*tXm9uf_x
+
+> Success!
+
+>
+__________________________________________
+
+> Please enter a valid password:  my_passworD
+
+> That password is invalid! Please try again: thi$is_MyPassw0rd
+
+> Success!
+
+>
+

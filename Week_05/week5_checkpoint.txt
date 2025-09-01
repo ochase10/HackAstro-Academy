@@ -1,0 +1,41 @@
+This week's checkpoint challenge is to write a function that creates a box.
+You can implement this in a standalone .py file or within a notebook.
+
+Your function should take an integer and print a box with that side length.
+
+An example call might look like:
+
+makeBox(4) ->
+
+####
+#  #
+#  #
+####
+
+
+or makeBox(10) -> 
+
+##########
+#        #
+#        #
+#        #
+#        #
+#        #
+#        #
+#        #
+#        #
+##########
+
+
+For an added challenge, have your function take an optional second argument which indicates what
+character to use in building the box.
+
+Ex: makeBox(5, "*") -> 
+
+*****
+*   *
+*   *
+*   *
+*****
+
+Make sure your function handles bad input properly!
