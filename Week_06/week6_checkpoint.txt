@@ -1,4 +1,8 @@
-This week's checkpoint is a simple numerical problem. 
+For this week's checkpoint there are two tasks.
+
+The first is a simple numerical problem. 
+
+1)
 
 Write a function which converts decimal numbers to binary. 
 
@@ -11,3 +15,26 @@ Example input/output:
 toBinary(10) -> 1010
 toBinary(7) -> 111
 toBinary(64) -> 1000000
+
+
+____________________________________________
+
+2)
+
+Write a function which can sort a list. You may assume the list contains only 
+numerical data (but you can check if you like). Also write a function which
+checks whether a list is sorted (in either increasing or decreasing order).
+
+Optionally, make your sorting function able to take an option for whether to sort
+in increasing or decreasing order.
+
+To test your function, import 'generate_list' from the listgen.py file in the Week_06
+directory and use it to create random lists for sorting. Then use your testing function
+to make sure your lists are sorted properly
+
+For an added challenge, try to make your sorting algorithm as fast as possible and
+test how it performs on lists of various lengths. You can use the 'time' library for
+tools to track your code's runtime. 
+
+Or just find a sorting algorithm online that sounds interesting and try
+implementing it. There are many to choose from!
