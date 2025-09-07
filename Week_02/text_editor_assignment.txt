@@ -1,8 +1,10 @@
 # Command Line Exercise
 # Instructions:
-# 1. Open this file using a text editor: `vi text_editor_assignment.txt`.
-# 2. Follow the instructions below to edit this file.
-# 3. Save the file and exit the editor once you are done.
+
+# Open this file using a text editor: `vi text_editor_assignment.txt`.
+# If you opened this file using vi do the following:
+# 1. Follow the instructions below to edit this file.
+# 2. Save the file and exit the editor once you are done.
 #    - For vi: Press `Esc`, type `:wq`, and hit Enter.
 
 # Task 1: Replace the placeholder text below with your name.
