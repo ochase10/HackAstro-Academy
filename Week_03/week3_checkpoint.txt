@@ -1,0 +1,26 @@
+This will be the first week with a checkpoint, little assignments you 
+do outside of class to make sure you're keeping up with the class.
+
+These aren't meant to be stressful or time-consuming. Take you best crack at
+them, but if you spend over half an hour, take a break and ask for help or 
+come to the next class with questions. These are really checks of how well
+we are teaching, so if you don't know how to do them, let us know!
+
+____________________________________________________________________________
+
+This week's checkpoint involves lists and control flow. 
+
+Your objective is to write a program which prints only valid items in a list. 
+We have prepared a partial program in w3_check.py which we want you to finish.
+
+Each time you run the code, it will generate a new list and assign it to a variable.
+You must print only the values of the list which are positive integers to the screen,
+one-by-one. 
+
+Ex: 
+> python w3_check.py
+> [-6, 2, 3, 7.1, '-9', '3', 1.4, 9, -2.9, 1, -5]
+> 2
+> 3
+> 9
+> 1
