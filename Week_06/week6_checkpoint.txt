@@ -21,6 +21,8 @@ ____________________________________________
 
 2)
 
+### Maybe change this!
+
 Write a function which can sort a list. You may assume the list contains only 
 numerical data (but you can check if you like). Also write a function which
 checks whether a list is sorted (in either increasing or decreasing order).
@@ -30,11 +32,18 @@ in increasing or decreasing order.
 
 To test your function, import 'generate_list' from the listgen.py file in the Week_06
 directory and use it to create random lists for sorting. Then use your testing function
-to make sure your lists are sorted properly
+to make sure your lists are sorted properly.
+
+You can either come up with your own sorting algorithm or find one online that sounds 
+interesting and try implementing it. There are many to choose from!
+
+2.1)
 
 For an added challenge, try to make your sorting algorithm as fast as possible and
 test how it performs on lists of various lengths. You can use the 'time' library for
-tools to track your code's runtime. 
+tools to track your code's runtime. You should compare the performance of various 
+algorithms.
 
-Or just find a sorting algorithm online that sounds interesting and try
-implementing it. There are many to choose from!
+You should also compare your code's performamce with the NumPy sort function. Use the 
+NumPy documentation to determine what algorithm it uses. Try running it with different
+options.
