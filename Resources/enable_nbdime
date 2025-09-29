@@ -1,2 +1,5 @@
+#!/bin/bash
+
 pip install nbdime
+cd ..
 nbdime config-git --enable
