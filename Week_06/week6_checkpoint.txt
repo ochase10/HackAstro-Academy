@@ -21,8 +21,6 @@ ____________________________________________
 
 2)
 
-### Maybe change this!
-
 Write a function which can sort a list. You may assume the list contains only 
 numerical data (but you can check if you like). Also write a function which
 checks whether a list is sorted (in either increasing or decreasing order).
