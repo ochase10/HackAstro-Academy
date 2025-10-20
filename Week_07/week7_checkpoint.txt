@@ -1,0 +1,17 @@
+For this week's checkpoint you're going to do a basic physics problem.
+
+Imagine we drop a ball from some initial height with some initial velocity. Your goal is to compute the
+trajectory of the ball and then plot it against time. 
+
+Write a script (function, Python file, notebook, etc) that takes initial values for position and velocity, along with a
+time interval. Compute the position of a ball free falling with those initial conditions over that time
+interval. It's up to you how you want to subdivide the interval. You should then plot the position of the
+ball (on the y axis) against time (on the x axis) as a scatter plot using matplotlib. Be sure to properly 
+label the axes and otherwise make the plot good-looking.
+
+There is an example of such a plot given as 'week7_cp_example1.png'.
+
+To step up the complexity a little bit, try plotting x position against y position for a trajectory. In
+this case, each point will still represent a moment in time. 'week7_cp_example2.png' is an example.
+
+You can also consider additional options like adjustable gravity strength.
