@@ -14,4 +14,4 @@ There is an example of such a plot given as 'week7_cp_example1.png'.
 To step up the complexity a little bit, try plotting x position against y position for a trajectory. In
 this case, each point will still represent a moment in time. 'week7_cp_example2.png' is an example.
 
-You can also consider additional options like adjustable gravity strength.
+You can also consider additional options like adjustable gravitional acceleration.
