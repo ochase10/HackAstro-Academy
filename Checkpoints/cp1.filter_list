@@ -1,0 +1,17 @@
+
+This week's checkpoint involves lists and control flow. 
+
+Your objective is to write a program which prints only valid items in a list. 
+We have prepared a partial program in filter_list.py which we want you to finish.
+
+Each time you run the code, it will generate a new list and assign it to a variable.
+You must print only the values of the list which are positive integers to the screen,
+one-by-one. 
+
+Ex: 
+> python filter_list.py
+> [-6, 2, 3, 7.1, '-9', '3', 1.4, 9, -2.9, 1, -5]
+> 2
+> 3
+> 9
+> 1
