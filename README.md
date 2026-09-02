@@ -5,8 +5,7 @@
 ------------------------------------------------------------------------
 |  |  |
 |:---|:---|
-| **Facilitators:**
-|  | Owen Chase (<owen.chase@utexas.edu>) |
+| **Facilitators:** | Owen Chase (<owen.chase@utexas.edu>) |
 | **Time & Place:** | Wednesday 3:30PM - 5PM in 15th Floor Computer Lab (PMA 15.201) |
 | **Office Hours:** | By appointment |
 
